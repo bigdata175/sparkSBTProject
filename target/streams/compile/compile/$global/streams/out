@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/sparkProj/newProj/src/main/scala/batch17/pack/sparkHive.scala:15:10: sample is already defined as object sample[0m
+[0m[[0m[31merror[0m] [0m[0m  object sample {[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -10,6 +10,8 @@ import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 import scala.io.Source
 import java.io.File
+//import java.io.File
+
 //object sparkHive extends App with SparkConfParam{
 
   object sparkHive {
